@@ -22,7 +22,11 @@ Test accuracy for for Layer Normailization -
 
 # Graphs Addtions
 
+![image](https://github.com/padmanabh275/S8_BatchNorm/assets/44230428/f40409bb-4148-4c98-b93f-63994eb1372a)
 
+
+
+![image](https://github.com/padmanabh275/S8_BatchNorm/assets/44230428/54ec3dc1-daf5-48a0-8f16-d6c9b1cc84d6)
 
 
 # Collections of Mis classified Images
