@@ -27,3 +27,5 @@ Test accuracy for for Layer Normailization -
 
 # Collections of Mis classified Images
 
+![image](https://github.com/padmanabh275/S8_BatchNorm/assets/44230428/b7d507d9-2bd9-4998-bb48-bc75602c0bd2)
+
