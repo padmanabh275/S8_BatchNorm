@@ -13,8 +13,8 @@ Training accuracy for Batch Normalization - 72.28%
 Test accuracy for for Batch Normailization - 77.83%
 
 
-Training accuracy for Group Normalization - 
-Test accuracy for for Group Normailization - 
+Training accuracy for Group Normalization - 68.51%
+Test accuracy for for Group Normailization - 73.64%
 
 Training accuracy for Layer Normalization - 
 Test accuracy for for Layer Normailization - 
